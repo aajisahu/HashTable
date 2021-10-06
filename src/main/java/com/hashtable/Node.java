@@ -1,5 +1,4 @@
 package com.hashtable;
-
 public class Node<K, V> {
 	K key;
 	V value;
